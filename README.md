@@ -1,5 +1,5 @@
 # AndroidClickInspector
 Xposed module to inspect clicked elements
 # Usage
-- Install
-- `adb logcat | grep 'Xposed  :'`
+1. Install
+2. `adb logcat | grep 'Xposed  :'`
